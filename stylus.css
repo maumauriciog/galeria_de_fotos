@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #dedede;
+}
+
+header {
+    background-color: cadetblue;
+    padding: 22px 0;
+    display: flex;
+    justify-content: center;
+    border-bottom: 12px solid rgb(24, 86, 88);
+}
+
+main {
+    display: none;
+}
+
+header button {
+    margin-left: 20px;
+    padding: 9px;
+    background-color: green;
+    color: aliceblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+form {
+    background-color: beige;
+    padding: 30px 0px 30px 200px;
+}
+
+form button,
+input {
+    padding: 5px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+#botao-cancelar {
+    background-color: red;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul li {
+    margin: 6px 7px;
+    max-width: 24%;
+    list-style: none;
+    position: relative;
+    max-height: 224px
+    /*todo conteudo que ultrapassar o 280, nao devera ser exibido*/;
+    overflow: hidden;
+}
+
+ul li img {
+    width: 105%;
+}
+
+.overlay-imagem-link {
+    padding: 13px;
+    background-color: rgba(0, 0, 0, 0.8);
+ 
+    /*posiciona o elemento no canto inferior do li*/
+    position: absolute;
+ 
+    /*estará na extremidade*/
+    bottom: 0;
+ 
+    left: 0;
+    width: 100%;
+
+    /*alterando a opacidade p/ 0 - ao posicionar o mouse no link, a opacidade voltar.*/
+    opacity: 0;
+
+    transition: all ease 0.5s;
+}
+
+.overlay-imagem-link a {
+    color: #fff;
+
+    /*retira o sublinhado do texto-link*/
+    text-decoration: none;
+}
+
+ul li:hover .overlay-imagem-link {
+    opacity: 1;
+}
