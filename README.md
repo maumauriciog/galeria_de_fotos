@@ -3,21 +3,21 @@ O site permite ao usuário inserir fotos e montar a sua própria galeria.
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="assets/figA.png" width="250">&emsp;<img src="assets/figB.png" width="260">&emsp;<img src="assets/figC.png" width="255">
+<img src="imgs/readme/figA.png" width="250">&emsp;<img src="imgs/readme/figB.png" width="250">&emsp;<img src="imgs/readme/figC.png" width="250">
 
 # 📲 Como Acessar o site
 Para utilizar o site, click no link gratuitamente já publicado: https://galeriadefotos-eight.vercel.app
 
 # 📘 Como Utilizar o Aplicativo
- O site é fácil de utilizar, siga os passos abaixo para obter sucesso em sua utilização.<br>
-       1. click no botão 'Nova Imagem';
+ O site é fácil de utilizar, siga os passos abaixo para obter sucesso.<br>
+       1. click no botão 'Nova Imagem';<br>
        2. Digite uma url válida de uma imagem na internet no campo em branco 'digite uma url'. Não é permitido outras informações a não ser uma url válida de uma imagem;<br>
        3. Click em 'Adicionar', e logo verá a sua imagem inserida na galeria;<br>
        4. Repita a operação 2. e 3. até que atinja a quantidade de imagens desejadas na sua galeria; e<br>
-       5. Click no botão 'cancelar' para desaparecer o formulário de inserção de imagens e visualizar somente as imagens.
+       5. Click no botão 'cancelar' para desaparecer o formulário de inserção de imagens e visualizar somente as imagens.<br>
        6. Divirta-se :).
 
-       obs.: AS fotos não ficaram salvas ao sair do site.
+       obs.: AS fotos não ficarão salvas ao sair do site. Algumas imagens já estão no site para exemplo...
 
 # 💻 Tecnologias
 * HTML
