@@ -17,7 +17,7 @@ Para utilizar o site, click no link gratuitamente já publicado: https://galeria
        5. Click no botão 'cancelar' para desaparecer o formulário de inserção de imagens e visualizar somente as imagens.<br>
        6. Divirta-se :).
 
-       obs.: AS fotos não ficarão salvas ao sair do site. Algumas imagens já estão no site para exemplo...
+       obs.: AS fotos não ficarão salvas ao sair do site. Algumas imagens estão no site para exemplo...
 
 # 💻 Tecnologias
 * HTML
