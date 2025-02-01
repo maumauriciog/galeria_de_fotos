@@ -16,19 +16,20 @@ $('document').ready(function () {
         const enderecoImgame = $('#endereco-imagem').val();
 
         /*criando um elemento no jayquery */
-        const novoItem = $('<li></li>');
+        const novoItem = $('<li style="display:none"></li>');
         /*cria um novo elemento e insere o elemento criado entre as tags li da variável novo item */
         $(`<img src="${enderecoImgame}" />`).appendTo(novoItem);
 
         $(`
             <div class="overlay-imagem-link">
-                <a href="${enderecoImgame}" target="${enderecoImgame}">
+                <a href="${enderecoImgame}" target="${enderecoImgame}" >
                     ampliar a imgagem
                 </a>
             </div>
         `).appendTo(novoItem);
 
         $(novoItem).appendTo('ul');
+        $(novoItem).fadeIn(2000);
         $('#endereco-imagem').val('');
     })
 })
