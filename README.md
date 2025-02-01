@@ -8,7 +8,7 @@ O site permite ao usuário inserir fotos e montar a sua própria galeria.
 # 📲 Como Acessar o site
 Para utilizar o site, click no link gratuitamente já publicado: https://galeriadefotos-eight.vercel.app
 
-# 📘 Como Utilizar o Aplicativo
+# 📘 Como Utilizar o Site
  O site é fácil de utilizar, siga os passos abaixo para obter sucesso.<br>
        1. click no botão 'Nova Imagem';<br>
        2. Digite uma url válida de uma imagem na internet no campo em branco 'digite uma url'. Não é permitido outras informações a não ser uma url válida de uma imagem;<br>
