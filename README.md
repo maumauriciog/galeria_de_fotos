@@ -10,7 +10,7 @@ Para utilizar o site, click no link gratuitamente já publicado: https://galeria
 
 # 📘 Como Utilizar o Site
  O site é fácil de utilizar, siga os passos abaixo para obter sucesso.<br>
-       1. click no botão 'Nova Imagem';<br>
+       1. Click no botão 'Nova Imagem';<br>
        2. Digite uma url válida de uma imagem na internet no campo em branco 'digite uma url'. Não é permitido outras informações a não ser uma url válida de uma imagem;<br>
        3. Click em 'Adicionar', e logo verá a sua imagem inserida na galeria;<br>
        4. Repita a operação 2. e 3. até que atinja a quantidade de imagens desejadas na sua galeria; e<br>
